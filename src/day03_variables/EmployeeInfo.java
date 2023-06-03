@@ -4,8 +4,8 @@ public class EmployeeInfo {
 
     public static void main(String[] args) {
 
-        String employeeName = "Oyunaa";
-        int age = 37;
+        String employeeName = "Jenny";
+        int age = 23;
         char gender = 'F';
         String companyName = "Apple Inc",
                 employeeId = "A19",

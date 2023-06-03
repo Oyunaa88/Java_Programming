@@ -6,7 +6,7 @@ public class HelloCydeo {
 
             System.out.println("Hello Cydeo");
             System.out.println();
-            System.out.println("My name is Muhtar");
+            System.out.println("My name is Ono");
 
         }
 }
